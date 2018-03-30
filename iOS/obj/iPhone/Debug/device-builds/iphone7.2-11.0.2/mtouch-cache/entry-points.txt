@@ -1,0 +1,27 @@
+Function=xamarin_timezone_get_data
+	/Users/saman/Projects/CustomContentPage/iOS/obj/iPhone/Debug/device-builds/iphone7.2-11.0.2/mtouch-cache/Link/mscorlib.dll
+Function=xamarin_GetFolderPath
+	/Users/saman/Projects/CustomContentPage/iOS/obj/iPhone/Debug/device-builds/iphone7.2-11.0.2/mtouch-cache/Link/mscorlib.dll
+Function=xamarin_log
+	/Users/saman/Projects/CustomContentPage/iOS/obj/iPhone/Debug/device-builds/iphone7.2-11.0.2/mtouch-cache/Link/mscorlib.dll
+Function=CreateZStream
+	/Users/saman/Projects/CustomContentPage/iOS/obj/iPhone/Debug/device-builds/iphone7.2-11.0.2/mtouch-cache/Link/System.dll
+Function=CloseZStream
+	/Users/saman/Projects/CustomContentPage/iOS/obj/iPhone/Debug/device-builds/iphone7.2-11.0.2/mtouch-cache/Link/System.dll
+Function=Flush
+	/Users/saman/Projects/CustomContentPage/iOS/obj/iPhone/Debug/device-builds/iphone7.2-11.0.2/mtouch-cache/Link/System.dll
+Function=ReadZStream
+	/Users/saman/Projects/CustomContentPage/iOS/obj/iPhone/Debug/device-builds/iphone7.2-11.0.2/mtouch-cache/Link/System.dll
+Function=WriteZStream
+	/Users/saman/Projects/CustomContentPage/iOS/obj/iPhone/Debug/device-builds/iphone7.2-11.0.2/mtouch-cache/Link/System.dll
+Function=xamarin_start_wwan
+	/Users/saman/Projects/CustomContentPage/iOS/obj/iPhone/Debug/device-builds/iphone7.2-11.0.2/mtouch-cache/Link/System.dll
+Function=UIApplicationMain
+	/Users/saman/Projects/CustomContentPage/iOS/obj/iPhone/Debug/device-builds/iphone7.2-11.0.2/mtouch-cache/Link/Xamarin.iOS.dll
+Function=xamarin_get_block_descriptor
+	/Users/saman/Projects/CustomContentPage/iOS/obj/iPhone/Debug/device-builds/iphone7.2-11.0.2/mtouch-cache/Link/Xamarin.iOS.dll
+Function=xamarin_IntPtr_objc_msgSend_IntPtr
+	/Users/saman/Projects/CustomContentPage/iOS/obj/iPhone/Debug/device-builds/iphone7.2-11.0.2/mtouch-cache/Link/Xamarin.iOS.dll
+Function=xamarin_IntPtr_objc_msgSendSuper_IntPtr
+	/Users/saman/Projects/CustomContentPage/iOS/obj/iPhone/Debug/device-builds/iphone7.2-11.0.2/mtouch-cache/Link/Xamarin.iOS.dll
+Function=mono_pmip
